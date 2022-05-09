@@ -6,20 +6,17 @@
 172.31.22.106
 
 [myapplicationservers]
-172.31.46.40 
-172.31.22.106
+172.31.46.4
+172.31.22.10
 
 [myDBservers]
 172.31.46.40 
-172.31.22.106
+
 
 [myredhatservers]
-172.31.46.40 
+
 172.31.22.106
 
-[mywebservers:vars] 
-myvar= value 
-mywebpackonubuntu= apache2 
-mywebpckonredhat= httpd
+
  
 
