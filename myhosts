@@ -6,18 +6,4 @@
  172.31.40.109
  172.31.46.40
 
-[myapplicationservers]
-172.31.10.25
-172.31.28.19
-
-[myDBservers]
-172.31.10.15
-172.31.28.90
-
-[myubuntuservers]
-172.31.10.250
-
-[myRedHatservers]
-172.31.28.191
-
 
