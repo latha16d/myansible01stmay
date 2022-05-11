@@ -9,4 +9,7 @@
  [myapplicationservers]
   172.31.46.189 
 
-
+[mywebservers:vars]
+myvar= value 
+mywebpackonubuntu=apache2 
+mywebpackonredhat=httpd
